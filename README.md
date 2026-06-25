@@ -206,6 +206,14 @@ FUTURE_PE_02_AI_CONTENT_MARKETING/
 ```
 
 ---
+## Technologies Used
+
+- ChatGPT
+- Prompt Engineering
+- Markdown
+- GitHub
+
+---
 
 ## Included Files
 
